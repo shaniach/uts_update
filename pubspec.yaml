@@ -1,0 +1,38 @@
+name: uts
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  url_launcher: ^6.2.5
+  
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/educenter-logo.png
+  - assets/Jurusan-Agribisnis-1.png
+  - assets/Logo-Agrotek-UPN.png
+  - assets/Logo-S2.png
+  - assets/Magister-Agribisnis-2-1.png
+  - assets/javas.jpg
+  - assets/nisa.jpg
+  - assets/image1.png
+  - assets/image2.png
+  - assets/image3.png
+  - assets/image4.png
+  - assets/replic2-1024x768.png
+  - assets/faperta.png
+  - assets/bakti-wisnu-widjajani agrotek s1.png
+  - assets/Dr.-Ir.-Hamidah-Hendrarini-M.Si.jpg
+  - assets/Dr.-Ir.-Mubarokah-M.T.jpg
+  - assets/Jurusan-Agribisnis-1.png
